@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Al Mahaba - المحبة",
+    "alternateName": "Almahba HPL",
+    "url": "https://almahaba.example",
+    "logo": "https://almahaba.example/logo.png",
+    "description": "Official Salomil agent in Egypt. Leading manufacturer of premium HPL, Formica, Fiber Glass & Compact Laminate solutions. وكيل سالوميل المعتمد في مصر - فورميكا، فيبر جلاس، كومباكت لامينيت",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Alexandria",
+        "addressCountry": "EG"
+    },
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Customer Service",
+        "availableLanguage": [
+            "English",
+            "Arabic"
+        ]
+    },
+    "sameAs": [
+        "https://www.facebook.com/almahaba",
+        "https://www.instagram.com/almahaba"
+    ],
+    "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Laminate Products",
+        "itemListElement": [
+            {
+                "@type": "Product",
+                "name": "HPL Sheets - ألواح HPL",
+                "description": "High Pressure Laminate sheets with 500+ designs. Heat and scratch resistant. فورميكا - لامينيت ضغط عالي مقاوم للحرارة والخدش",
+                "category": "Building Materials",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Salomil"
+                }
+            },
+            {
+                "@type": "Product",
+                "name": "Fiber Glass Laminate - فايبر جلاس لامينيت",
+                "description": "Double face HPL with structural fiber core. Perfect for furniture and cabinetry. لامينيت وجهين مع قلب من الألياف",
+                "category": "Building Materials",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Salomil"
+                }
+            },
+            {
+                "@type": "Product",
+                "name": "Compact Laminate - كومباكت لامينيت",
+                "description": "Waterproof, antibacterial, high impact resistance. Ideal for high-traffic areas. مقاوم للماء ومضاد للبكتيريا",
+                "category": "Building Materials",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Salomil"
+                }
+            },
+            {
+                "@type": "Product",
+                "name": "Postforming Laminate - بوست فورمينج",
+                "description": "Curved edge laminate for modern seamless surfaces. لامينيت منحني للأسطح الحديثة",
+                "category": "Building Materials",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Salomil"
+                }
+            }
+        ]
+    }
+}

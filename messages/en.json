@@ -1,0 +1,321 @@
+{
+    "Navigation": {
+        "home": "Home",
+        "about": "About",
+        "aboutDropdown": "About Us",
+        "portfolioDropdown": "Portfolio",
+        "products": "Products",
+        "contact": "Contact Us",
+        "compacts": "Compacts",
+        "hpl": "HPL Sheets",
+        "hplDropdown": "HPL",
+        "compactDropdown": "Compact",
+        "fiberGlassDropdown": "Fiber Board",
+        "postformingDropdown": "Postforming",
+        "textureDropdown": "Texture & Sizes",
+        "colorCollectionsDropdown": "Color Collections",
+        "newArrivals": "New Arrivals",
+        "parquet": "HPL Parquet Flooring",
+        "doorFaces": "Door Faces",
+        "blackCore": ""
+    },
+    "LocaleSwitcher": {
+        "label": "Language",
+        "en": "English",
+        "ar": "Arabic"
+    },
+    "Common": {
+        "readMore": "Read More"
+    },
+    "Products": {
+        "sectionSubtitle": "Comprehensive Collection",
+        "sectionTitle": "Product Types",
+        "sectionDescription": "Explore our diverse range of High Pressure Laminates, designed to provide unique solutions for durability, aesthetics, and functionality.",
+        "explore": "Explore Collection",
+        "items": {
+            "hpl": {
+                "title": "HPL Sheets",
+                "subtitle": "Standard Collection",
+                "description": "Experience the perfect blend of durability and design. Our HPL sheets offer exceptional resistance to heat and scratches, available in over 500 stunning designs to elevate any commercial or residential interior.",
+                "f1": "Heat Resistant",
+                "f2": "Scratch Resistant",
+                "f3": "500+ Designs"
+            },
+            "compact": {
+                "title": "Compact Laminate",
+                "subtitle": "Heavy Duty Solutions",
+                "description": "Engineered for the most demanding environments. These self-supporting solid core panels withstand moisture, impact, and high traffic, making them the ideal choice for partitions, lockers, and wall cladding.",
+                "f1": "Waterproof",
+                "f2": "Antibacterial",
+                "f3": "High Impact Resistance"
+            },
+            "doubleface": {
+                "title": "Double Face HPL (Fiber Board)",
+                "subtitle": "Furniture Grade",
+                "description": "A structural ready-to-use solution featuring high-pressure laminate on both sides with a premium fiber core. Perfect for cabinetry, furniture manufacturing, and interior architectural elements.",
+                "f1": "Double Sided",
+                "f2": "Structural Core",
+                "f3": "Ready to Use"
+            },
+            "postforming": {
+                "title": "Postforming",
+                "subtitle": "Curved Excellence",
+                "description": "Break free from straight lines. Our postforming laminates are designed to bend around curved edges, creating seamless, modern surfaces for countertops, desks, and architectural features.",
+                "f1": "Bending Technology",
+                "f2": "Seamless Edges",
+                "f3": "Modern Aesthetics"
+            }
+        }
+    },
+    "NewArrivals": {
+        "sectionSubtitle": "Latest Trends",
+        "sectionTitle": "New Arrivals",
+        "sectionDescription": "Explore our newest additions to the collection, featuring cutting-edge designs and premium finishes.",
+        "hoverHint": "Hover to zoom",
+        "items": {
+            "item1": {
+                "title": "HPL Parquet Flooring",
+                "badge": "NEW",
+                "description": "HPL Parquet Flooring combines wood beauty with laminate strength. It offers high durability for homes and commercial spaces. Designed to handle heavy foot traffic. A stylish flooring solution with long-lasting performance.",
+                "tags": {
+                    "t1": "Residential flooring",
+                    "t2": "Commercial offices",
+                    "t3": "Hotels & hospitality spaces",
+                    "t4": "Shops & showrooms"
+                }
+            },
+            "item2": {
+                "title": "Door Face",
+                "badge": "NEW",
+                "description": "HPL Door Face panels provide a strong, stylish finish for doors. They resist scratches, moisture, and impact. Perfect for homes, offices, and hotels. Designed for areas that require durability and elegance.",
+                "tags": {
+                    "t1": "Residential interior doors",
+                    "t2": "Hotel and apartment doors",
+                    "t3": "Office and administrative buildings",
+                    "t4": "Hospitals & educational buildings"
+                }
+            },
+            "item3": {
+                "title": "Compact blackcore",
+                "badge": "NEW",
+                "description": "A premium compact laminate with a sleek black edge. Combines high strength with modern aesthetics. Perfect for luxury partitions, countertops, and interiors. Resistant to moisture, impact, and daily wear.",
+                "tags": {
+                    "t1": "Luxury washroom cubicles",
+                    "t2": "Premium countertops",
+                    "t3": "Decorative partitions",
+                    "t4": "High-end commercial interiors"
+                }
+            }
+        }
+    },
+    "Applications": {
+        "sectionSubtitle": "Industries We Serve",
+        "sectionTitle": "Applications",
+        "sectionDescription": "Our high-performance solutions are engineered to meet the distinct requirements of diverse sectors, combining durability with exceptional design.",
+        "explore": "Explore Solutions",
+        "items": {
+            "home": {
+                "title": "Home Interiors",
+                "description": "Kitchen countertops, cabinetry, wall panels, and furniture"
+            },
+            "commercial": {
+                "title": "Commercial Spaces",
+                "description": "Hotels, restaurants, cafes, and entertainment venues"
+            },
+            "hospital": {
+                "title": "Hospital Environments",
+                "description": "Wall Cladding – Hospital Doors – Toilet & Shower Cubicles – Partitions & Dividers"
+            }
+        }
+    },
+    "CTA": {
+        "title": "Ready to Start Your Project?",
+        "description": "Our team of experts is ready to help you find the perfect HPL solution for your needs. Get in touch today for a consultation.",
+        "quote": "Request a Quote",
+        "schedule": "Schedule Consultation",
+        "contact": {
+            "call": "Call Us",
+            "whatsapp": "WhatsApp",
+            "email": "Email Us",
+            "visit": "Visit Us"
+        },
+        "visitValue": "Alexandria, Egypt"
+    },
+    "Footer": {
+        "about": "Almahba is the official authorized agent for Salomil. Leading manufacturer of premium high-pressure laminate solutions.",
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "cookie": "Cookie Policy",
+        "links": {
+            "Products": "Products",
+            "Applications": "Applications",
+            "Company": "Company",
+            "Support": "Support",
+            "Decorative Laminate": "Decorative Laminate",
+            "Solid Core HPL": "Solid Core HPL",
+            "Compact Laminate": "Compact Laminate",
+            "Fire-Rated HPL": "Fire-Rated HPL",
+            "Anti-Fingerprint": "Anti-Fingerprint",
+            "Residential": "Residential",
+            "Commercial": "Commercial",
+            "Hospitality": "Hospitality",
+            "Healthcare": "Healthcare",
+            "Retail": "Retail",
+            "About Us": "About Us",
+            "Innovation": "Innovation",
+            "Sustainability": "Sustainability",
+            "Certifications": "Certifications",
+            "Careers": "Careers",
+            "Contact": "Contact",
+            "Technical Support": "Technical Support",
+            "Download Center": "Download Center",
+            "Installation Guides": "Installation Guides",
+            "FAQs": "FAQs",
+            "Resources": "Resources",
+            "HPL Sheets": "HPL Sheets",
+            "Postforming": "Postforming",
+            "Fiber Glass": "Fiber Glass",
+            "Projects": "Projects",
+            "Color Collections": "Color Collections",
+            "Contact Info": "Contact Info"
+        }
+    },
+    "Hero": {
+        "slides": {
+            "0": {
+                "title": "Surfaces That Define Excellence",
+                "description": "Premium high-pressure laminate solutions engineered for durability, design, and sustainability."
+            },
+            "1": {
+                "title": "Quality That Lasts",
+                "description": "Built to withstand the toughest environments while maintaining timeless beauty and elegance."
+            }
+        },
+        "explore": "Explore Products",
+        "catalog": "Download Catalog"
+    },
+    "About": {
+        "story": "Our Story",
+        "title": "Authorized Excellence Since 2009",
+        "p1": "Welcome to <strong class='font-medium text-neutral-900'>Almahba</strong>, the official authorized agent for <strong class='font-medium text-neutral-900'>Salomil</strong>. For over a decade, we have dedicated ourselves to providing premium surface solutions that define quality and elegance.",
+        "p2": "Established in 2009 and headquartered in <strong class='font-medium text-neutral-900'>Alexandria</strong>, we have grown to become a trusted partner for architects, designers, and manufacturers. Our commitment to excellence ensures that every product we deliver meets the highest standards of durability and design.",
+        "established": "Established",
+        "headquarters": "Headquarters",
+        "readMore": "Read More"
+    },
+    "HPL": {
+        "collection": "Almahba Collection",
+        "title": "High Pressure Laminates (HPL)",
+        "description": "Explore our extensive collection of High Pressure Laminates. Durable, versatile, and stylish solutions for every surface."
+    },
+    "Compacts": {
+        "collection": "Almahba Collection",
+        "title": "Compact Laminates",
+        "description": "Discover our premium Compact Laminates, engineered for durability and style. Perfect for high-traffic areas and humid environments."
+    },
+    "Fiber": {
+        "collection": "Almahba Collection",
+        "title": "Fiber Glass",
+        "description": "Explore our durable and versatile Fiber Glass solutions, designed for strength and aesthetic appeal in various applications."
+    },
+    "Postforming": {
+        "collection": "Almahba Collection",
+        "title": "Postforming Laminates",
+        "description": "Break free from straight lines. Our postforming laminates are designed to bend around curved edges, creating seamless, modern surfaces."
+    },
+    "KitchenVisualizer": {
+        "sectionSubtitle": "Interactive Studio",
+        "sectionTitle": "Kitchen Visualizer",
+        "finishSelected": "Finish Selected"
+    },
+    "CTASection": {
+        "title": "Ready to Start Your Project?",
+        "description": "Our team of experts is ready to help you find the perfect HPL solution for your needs. Get in touch today for a consultation.",
+        "requestQuote": "Request a Quote",
+        "scheduleConsultation": "Schedule Consultation",
+        "callUs": "Call Us",
+        "whatsapp": "WhatsApp",
+        "emailUs": "Email Us",
+        "visitUs": "Visit Us",
+        "visitLocation": "Alexandria, Egypt",
+        "ceoRole": "CEO Almahaba",
+        "gmRole": "G.M Almahaba",
+        "leadershipTitle": "Company Leadership"
+    },
+    "ColorCollections": {
+        "swatchFilters": "Swatch Filters",
+        "categories": "Categories",
+        "solids": "Solids",
+        "wooden": "Wooden",
+        "marble": "Marble",
+        "filters": "Filters",
+        "searchTerm": "Search term",
+        "searchProducts": "Search products...",
+        "products": "Products",
+        "newSort": "New Sort",
+        "nameAZ": "Name A-Z",
+        "nameZA": "Name Z-A",
+        "number": "Number",
+        "swatchSettings": "Swatch Settings",
+        "default": "Default",
+        "largeSwatches": "Large Swatches",
+        "smallSwatches": "Small Swatches",
+        "noProductsFound": "No products found matching your criteria.",
+        "fullSheet": "Full Sheet",
+        "dimensions": "(3050mm x 1300mm)",
+        "note": "Note:",
+        "noteText": "Swatches are a representation and may vary in colour from the final product. Please obtain a sample of the product before making a final selection.",
+        "availableIn": "Available in these products",
+        "patterns": "Patterns",
+        "finishes": "2 Finishes",
+        "downloadCatalogue": "Download Catalogue",
+        "hoverHint": "Hover to see details"
+    },
+    "Portfolio": {
+        "title": "Projects & Certifications",
+        "subtitle": "Defining Standards of Excellence in Every Surface",
+        "isoSection": {
+            "title": "ISO 9001:2015 Certification",
+            "subtitle": "Commitment to Quality",
+            "description": "Almahba maintains the highest standards of quality management through our ISO 9001:2015 certification. This internationally recognized standard demonstrates our unwavering commitment to consistently providing products that meet customer and regulatory requirements.",
+            "content": "Our quality management system is designed to potentialize continuous improvement, ensuring that every sheet of HPL and Compact Laminate we produce adheres to rigorous quality benchmarks. From raw material selection to final inspection, our processes are optimized for excellence."
+        },
+        "euSection": {
+            "title": "European Standards (EN 438)",
+            "subtitle": "Global Benchmarks",
+            "description": "Our products are manufactured in strict accordance with European Standard EN 438, the definitive benchmark for High-Pressure Decorative Laminates. This ensures superior performance in resistance to wear, impact, heat, and moisture.",
+            "content": "By adhering to these stringent specifications, we guarantee that our laminates offer exceptional durability and longevity, making them suitable for the most demanding applications in residential, commercial, and healthcare environments."
+        }
+    },
+    "TexturePage": {
+        "title": "Texture & Dimensions",
+        "subtitle": "Explore our premium collection of finishes, meticulously crafted to bring depth and character to every surface.",
+        "matrixTitle": "Availability Matrix",
+        "matrixSubtitle": "Comprehensive guide to our texture and size combinations.",
+        "table": {
+            "ref": "Ref",
+            "description": "Description"
+        },
+        "textures": {
+            "matt": "Matt",
+            "glossy": "Glossy",
+            "suede": "Suede",
+            "soft_suede": "Soft Suede",
+            "matrix": "Matrix",
+            "engineering_cut": "Engineering Cut",
+            "textile": "Textile",
+            "textile_square": "Textile Square",
+            "leather": "Leather",
+            "star": "Star",
+            "charles_oak": "Charles Oak",
+            "real_wood": "Real Wood",
+            "american_wood": "American Wood",
+            "square": "Square",
+            "flower": "Flower",
+            "wenge": "Wenge",
+            "ash": "Ash"
+        },
+        "note": "Note: Availability may vary based on region. Please contact sales for specific requirements."
+    }
+}
